@@ -1,0 +1,23 @@
+A. Metode Exploratory Testing pada Fitur Baru
+Saat melakukan Exploratory Testing pada fitur baru tanpa dokumentasi, saya akan mengikuti pendekatan berikut:
+
+1. Pahami Fitur dari Perspektif Pengguna: 
+Saya akan mencoba memahami tujuan dan fungsionalitas fitur dengan menjalankan fitur seperti pengguna biasa.
+
+2. Menggunakan Sesi Waktu Terbatas: 
+Saya akan melakukan eksplorasi selama sesi singkat (misalnya, 15-30 menit) untuk mengidentifikasi sebanyak mungkin skenario pengujian potensial.
+Catat Hasil Secara Cepat dan Efisien: Selama eksplorasi, saya akan membuat catatan singkat dan dokumentasi apa pun mengenai bug, batasan, dan respons fitur dalam berbagai kondisi input.
+
+3. Analisis Kemungkinan Edge Cases: 
+Saya akan mencoba input yang tidak biasa atau situasi yang tidak lazim untuk melihat bagaimana fitur menangani kondisi tersebut.
+
+B. Tiga Hal yang Diperiksa Selama Exploratory Testing
+
+Respons Sistem terhadap Input yang Beragam:
+Saya akan mencoba memasukkan berbagai input (valid dan tidak valid) untuk memeriksa bagaimana fitur merespons. Termasuk input kosong, karakter khusus, batasan panjang teks, dan format data yang tidak sesuai.
+
+Fungsionalitas Utama Fitur:
+Menguji apakah fitur berfungsi sesuai dengan yang diharapkan, misalnya, apakah ada tombol yang tidak merespons atau apakah fitur melakukan tugasnya dengan benar.
+
+Kesesuaian dengan User Interface dan Kemudahan Penggunaan:
+Memastikan bahwa tampilan fitur sesuai dengan gaya UI aplikasi, dan memeriksa apakah elemen-elemen mudah diakses, terbaca, dan user-friendly.
